@@ -5,7 +5,7 @@
 			"app_key": "application.generated.ue.virtual-reality-bp-game-template-11100242.ue4editor.exe",
 			"launch_type": "url",
 			"url": "steam://launch/",
-			"action_manifest_path": "C:/Users/mattaber/Documents/GitHub/Comp590-projects/Unreal Projects/COMP590A5Xu/Config/SteamVRBindings/steamvr_manifest.json",
+			"action_manifest_path": "C:/Users/yibei/Documents/Comp590/Unreal Projects/COMP590A5Xu/Config/SteamVRBindings/steamvr_manifest.json",
 			"strings":
 			{
 				"en_us":
