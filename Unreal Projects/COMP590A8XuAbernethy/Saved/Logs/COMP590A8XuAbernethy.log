@@ -494,3 +494,27 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.09-02.11.40:456][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
 [2020.04.09-02.11.40:456][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
 [2020.04.09-02.11.40:456][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.04.09-02.11.44:088][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.04.09-02.11.44:311][  0]LogDerivedDataCache: Loaded boot cache 0.22s 78MB C:/Users/Eric/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.04.09-02.11.44:311][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Eric/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.04.09-02.11.44:311][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Eric/Documents/GitHub/Comp590-projects/Unreal Projects/COMP590A8XuAbernethy/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.04.09-02.11.44:311][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.04.09-02.11.44:311][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Eric/Documents/GitHub/Comp590-projects/Unreal Projects/COMP590A8XuAbernethy/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.09-02.11.44:311][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.04.09-02.11.44:324][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.04.09-02.11.44:325][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.09-02.11.44:325][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.04.09-02.11.44:330][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Eric/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.04.09-02.11.44:330][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.04.09-02.11.44:331][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.04.09-02.11.44:363][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.04.09-02.11.44:371][  0]LogSlate: Using FreeType 2.10.0
+[2020.04.09-02.11.44:397][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.04.09-02.11.44:708][  0]LogAssetRegistry: FAssetRegistry took 0.0078 seconds to start up
+[2020.04.09-02.11.45:302][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.09-02.11.45:577][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.04.09-02.11.45:577][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.04.09-02.11.45:577][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.04.09-02.11.45:577][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.04.09-02.11.45:577][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.04.09-02.11.45:611][  0]LogNetVersion: COMP590A8XuAbernethy 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 2143565184)
